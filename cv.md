@@ -21,3 +21,13 @@ Skills
 - Basic JS
 - VS code
 - Git
+
+Education
+---
+
+Mykolaiv National Agrarian University
+
+Languages
+---
+- [English (B1)](https://www.efset.org/cert/9weqYW)
+- Russian (Native)
