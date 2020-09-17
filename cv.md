@@ -1,11 +1,11 @@
 Denys Manzhos
 ---
 
-_Telegram:_ https://t.me/denys_manzhos
+[Telegram](https://t.me/denys_manzhos)
 
-_Github:_ https://github.com/dmanzhos
+[Github](https://github.com/dmanzhos)
 
-_Gmail:_ denik8060@gmail.com
+[Skype](https://join.skype.com/invite/hjJKcrqzRqXa)
 
 Summary
 ---
